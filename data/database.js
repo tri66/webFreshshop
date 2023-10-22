@@ -1,5 +1,5 @@
 const mongodb=require('mongodb');
-const MongoClient=mongo.MongoClient;
+const MongoClient=mongodb.MongoClient;
 
 let database;
 
